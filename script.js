@@ -6,6 +6,6 @@ var x = 0;
 
 function run() {
     x = x - 512;
-    var r = document.getElementById("r");
+    var r = document.getElementById("c");
     r.style.backgroundPositionX = x + "px";
 }
