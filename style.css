@@ -2,6 +2,7 @@
     width: 100%;
     height: 100vh;
     background-image: url("./forest-game-background-d-application-vector-design-tileable-horizontally-size-ready-parallax-effect-73706218.jpg");
+    position: absolute;
 }
 
 body {
@@ -9,10 +10,10 @@ body {
 }
 
 .c {
-    width: 512px;
-    height: 512px;
+    width: 350px;
+    height: 350px;
     position: absolute;
-    margin-top: 400px;
+    margin-top: 10px;
     margin-left: 50px;
     background-image: url(./r.png);
 }
