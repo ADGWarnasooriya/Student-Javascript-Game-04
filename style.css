@@ -7,3 +7,11 @@
 body {
     margin: 0px;
 }
+
+.c {
+    width: 512px;
+    height: 512px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 50px;
+}
