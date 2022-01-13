@@ -14,7 +14,7 @@ body {
     height: 512px;
     position: absolute;
     margin-top: 275px;
-    margin-left: -120px;
+    margin-left: -125px;
     background-image: url(./r.png);
     transform: scale(0.5);
 }
